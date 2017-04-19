@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-var sys = require('util')
+const sys = require('util')
 const exec = require('child_process').exec;
 const notifier = require('node-notifier');
 const path = require('path');
