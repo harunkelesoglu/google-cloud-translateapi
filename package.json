@@ -1,0 +1,16 @@
+{
+  "name": "translate",
+  "version": "0.0.0",
+  "description": "",
+  "main": "translate.js",
+  "dependencies": {
+    "@google-cloud/translate": "^0.8.1",
+    "node-notifier": "~5.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause"
+}
